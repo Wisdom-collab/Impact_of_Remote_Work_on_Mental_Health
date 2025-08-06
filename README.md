@@ -102,6 +102,7 @@ It consists of **interactive KPI cards**, **charts**, and **filters** to allow H
 [[Attach dataset link here](https://docs.google.com/spreadsheets/d/1qOnjArhrRP385tdN1381FhjTIFs5VL-d_ZsW4PcUkpk/edit?gid=349596496#gid=349596496)]
 
 ### 📌 Dashboard Image
+<img width="979" height="560" alt="image" src="https://github.com/user-attachments/assets/35df733b-73b6-4254-80f9-cb955e97efc6" />
 
 
 ---
